@@ -1,0 +1,10 @@
+B:\Упр-Алгоритми\Calculator\Calculator\bin\Debug\Calculator.exe.config
+B:\Упр-Алгоритми\Calculator\Calculator\bin\Debug\Calculator.exe
+B:\Упр-Алгоритми\Calculator\Calculator\bin\Debug\Calculator.pdb
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.exe
+B:\Упр-Алгоритми\Calculator\Calculator\obj\Debug\Calculator.pdb
